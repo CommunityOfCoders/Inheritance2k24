@@ -48,7 +48,12 @@ The platform focuses on simplifying job search complexities by offering intellig
 
 ### Additional Technologies
 <p>
-   <img src="https://via.placeholder.com/40?text=Agora" width="40" height="40" alt="Agora" />
+  ### Additional Technologies
+<p>
+   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="40" height="40" alt="Socket.IO"/>
+   <img src="https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/agora-logo.png" width="40" height="40" alt="Agora" />
+</p>
+
 
 </p>
 
