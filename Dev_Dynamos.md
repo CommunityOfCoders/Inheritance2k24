@@ -132,6 +132,8 @@ Add names of your mentors with their emails and links to their GitHub accounts
 
 <div align="center">
   Streamlining Job Search and Recruitment
+  <br>
+  CoC Inheritance 2024 || DevDynamos
 </div>
 
 <hr>
@@ -237,17 +239,19 @@ npm start
 ```bash
 cd backend
 npm install
-npm start
+nodemon server.js
 ```
 
 ## 👨‍💻 Team Members
-- [Bhargava D](https://github.com/bhargava-d16)
+- [Bhargava Dabhade](https://github.com/bhargava-d16)
 - [Kalp Mehta](https://github.com/kalpm1110)
 - [Sumedh Charjan](https://github.com/sumedhcharjan)
 - [Kartik Lande](https://github.com/lande26)
 
 ## 👨‍🏫 Mentors
-- [Mentor Name](mailto:mentor@example.com)
+- [Tanay Gada](https://github.com/TanayGada)
+- [Mihir Pandit](https://github.com/MSP20086)
+- [Varun Sriram](https://github.com/Vxyzs)
 
 ## 📱 Screenshots
 ![Job Portal Screenshot](https://via.placeholder.com/800x600 "Job Portal Interface")
