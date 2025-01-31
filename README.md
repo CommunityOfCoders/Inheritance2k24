@@ -49,7 +49,7 @@ A full-stack cryptocurrency pump and dump detection system combining blockchain 
 graph LR
     A[🔗 On Chain Data] --> B[📜 Smart Contract]
     B --> C[⚛️ React Frontend]
-    C --> D[🤖 ML Model]
+    C --> <--D[🤖 ML Model]
     
     E[(📊 Historical Data)] --> D
     F[🌐 Node Server] --> B
