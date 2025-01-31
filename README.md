@@ -29,7 +29,7 @@
 
 ## 📝Description
 
-PawCrastiNot is a productivity and task management app that integrates gamification elements to encourage users to complete tasks. The unique aspect of the app is the presence of virtual pets whose happiness and well-being are influenced by the user’s productivity. By completing tasks, users keep their pet happy and engaged, while procrastination leads to a decline in the pet’s mood. The app aims to make task management fun and engaging, reducing procrastination through an interactive reward system. This is not just your another workflow app which is boring and minimalistic but more interactive and more captivating.The app seamlessly blends productivity with entertainment, encouraging users to stay on top of their responsibilities while having fun.
+PawCrastiNot is a productivity and task management app that integrates gamification elements to encourage users to complete tasks. The unique aspect of the app is the presence of virtual pets whose happiness and well-being are influenced by the user’s productivity. By completing tasks, users keep their pet happy and engaged, while procrastination leads to a decline in the pet’s mood. The app aims to make task management fun and engaging, reducing procrastination through an interactive reward system. This is not just your another workflow app which is boring and minimalistic but more interactive and more captivating.The app seamlessly blends productivity with entertainment, encouraging users to stay on top of their responsibilities while having fun
 
 ## 🔗Links
 
