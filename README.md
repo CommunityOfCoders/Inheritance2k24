@@ -45,13 +45,17 @@ A full-stack cryptocurrency pump and dump detection system combining blockchain 
 ## 🤖Tech-Stack
 ### 🏗️ System Architecture
 
-```mermaid
+```
+mermaid
 graph LR
     A[🔗 On Chain Data] --> B[📜 Smart Contract]
     B --> C[⚛️ React Frontend]
     C --> D[🤖 ML Model]
     
     E[(📊 Historical Data)] --> D
+    F[🌐 Node Server] --> B
+    F --> C
+
 
 ```
 
