@@ -32,7 +32,7 @@ The platform focuses on simplifying job search complexities by offering intellig
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
 </p>
 
 ### Back-end
@@ -48,8 +48,8 @@ The platform focuses on simplifying job search complexities by offering intellig
 
 ### Additional Technologies
 <p>
-   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="40" height="40" alt="Socket.IO"/>
-   <img src="https://www.agora.io/favicon.ico" width="40" height="40" alt="Agora"/>
+   <img src="https://via.placeholder.com/40?text=Agora" width="40" height="40" alt="Agora" />
+
 </p>
 
 ## 📈 Progress
