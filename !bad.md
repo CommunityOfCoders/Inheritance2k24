@@ -36,7 +36,7 @@
 
 - [GitHub Repository](https://github.com/RushabhMehta2005/CPGA-Inheritance-2024/)
 - [Demo Video]()
-- [Drive Link to Screenshots of your project]()
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/u/1/folders/176fHL_eJ-oFeT9k1P8DHrwd0aishzSx6)
 
 ## 🤖Tech-Stack
 
@@ -45,17 +45,18 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Front-end
 - HTML
-- Tailwind CSS
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" width=20 height=20>Tailwind CSS
 - Daisy UI, react-toastify (notifications)
 - Chart.js, Recharts
-- React
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" width=20 height=20>React
 - Lucid-react (icons)
 
 #### Back-end
-- NodeJS
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" width=20 height=20>NodeJS
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/puppeteer.svg" width=20 height=20>Puppeteer
 
 #### Database
-- MongoDB
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" width=20 height=20>MongoDB
 
 ## 📈Progress
 
@@ -81,7 +82,9 @@ List down all the partially implemented features in your project
   - monitoring your progress through data
 ## 🛠Project Setup
 
-For the Web-App 1.Clone the GitHub repo.
+For the Web-App 
+
+1.Clone the GitHub repo.
 ```bash
 git clone https://github.com/RushabhMehta2005/CPGA-Inheritance-2024/
 ```
@@ -112,12 +115,9 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Pawan Wagh](https://github.com/puwun/):
-- [Varun Rajput](https://github.com/varunrr17/):
+- [Pawan More](https://github.com/puwun/)
+- [Varun Rajput](https://github.com/varunrr17/)
 
 ## 📱Screenshots
 
-
-![Screenshot alt text]( "screenshot")
-
-
+<img src="https://drive.google.com/file/d/1fAoT0sN7IJxFD0dXHm-ECA-rDKCuk7uh/view?usp=drive_link" width="50" height="50">
