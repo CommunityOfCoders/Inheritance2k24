@@ -20,7 +20,7 @@ The platform focuses on simplifying job search complexities by offering intellig
 
 - [GitHub Repository](https://github.com/bhargava-d16/Inheritance-Project)
 - [Demo Video](#)
-- [Project Screenshots](#)
+- [Project Screenshots](https://drive.google.com/drive/folders/1TdpPSDaJZT0hSD8i9ITVOq8Y_zCnjiGy?dmr=1&ec=wgc-drive-hero-goto)
 - [Hosted Website](#)
 - [Backend API](#)
 
