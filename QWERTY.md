@@ -69,10 +69,10 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - AMA (Ask Me Anything): A space for students to engage with alumni and seniors, asking questions on various topics.
 - Hobbies: A dedicated section for students to share and explore hobbies, fostering like-minded connections.
 - Alumni Connect: A platform to bridge the gap between current students and alumni, facilitating mentorship and networking.
-- 1v1 Chat: Direct messaging functionality for one-on-one communication between students.
+- 1V1 Chat: Direct messaging functionality for one-on-one communication between students.
 - Noticeboard: A central hub for displaying important college notices and upcoming events.
 - Profile Page: Personalized student profiles for easy interaction and showcasing achievements.
-- Feed: Users can post photos.
+- Feed: Users can post photos add caption.
 
 
 
@@ -106,6 +106,8 @@ bash
   cd backend
   npm install
   npm start
+
+
 4.After setting up once
 bash
   npm start
