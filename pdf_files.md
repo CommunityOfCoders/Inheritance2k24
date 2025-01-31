@@ -118,7 +118,7 @@ git clone <url>
 
 - [Vaishvi Khandelwal ](https://github.com/vaishvi2811/)
 - [Pratham Bhamare](https://github.com/PrathamBhamare)
-- [Sadhya Jain](https://github.com/)
+- [Sadhya Jain](https://github.com/sadhyaJain)
 - [Sahil Langhe](https://github.com/)
 
 ## 👨‍🏫Mentors
