@@ -33,7 +33,7 @@ PawCrastiNot is a productivity and task management app that integrates gamificat
 
 ## 🔗Links
 
-- [GitHub Repository]([https://github.com/](https://github.com/KartikB3/PawCrastiNot))
+- [GitHub Repository](==https://github.com/KartikB3/PawCrastiNot)
 - [Demo Video](https://drive.google.com/drive/folders/1W3fGknK9Amas80v2JcTvI3RZmm0A-Zx1)
 - [Drive Link to Screenshots of your project](https://drive.google.com/file/d/13lI0SPUawPt5NEJU9Ovi5awdgCSvQ4SP/view?usp=sharing)
 
@@ -198,10 +198,11 @@ For the Web-App 1.Clone the GitHub repo.
 ```bash
 git clone <url>
 ```
-On terminal,
-flutter clean
+```terminal
+flutter run
 flutter pub get
 flutter run
+```
 
 
 ## 👨‍💻Team Members
