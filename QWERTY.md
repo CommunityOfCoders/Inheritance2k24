@@ -72,6 +72,7 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - 1v1 Chat: Direct messaging functionality for one-on-one communication between students.
 - Noticeboard: A central hub for displaying important college notices and upcoming events.
 - Profile Page: Personalized student profiles for easy interaction and showcasing achievements.
+- Feed: Users can post photos.
 
 
 
@@ -93,7 +94,7 @@ For the Web-App 1.Clone the GitHub repo.
 bash
 git clone <https://github.com/MAVERICK-111/INHERITANCE.git>
 
-2.Enter the client directory. Install all the required dependencies.
+2.Enter the frontend directory. Install all the required dependencies.
 bash
   cd frontend
   npm install
@@ -104,6 +105,9 @@ bash
 bash
   cd backend
   npm install
+  npm start
+4.After setting up once
+bash
   npm start
 
 
