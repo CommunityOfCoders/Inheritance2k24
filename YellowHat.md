@@ -3,11 +3,11 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
   </a>
   <br>
- Project Name
+ Trystyle AI Tryon
 </h1>
 
 <div align="center">
-   //project name
+   
 </div>
 <hr>
 
@@ -32,6 +32,7 @@
 
 
 
+
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/)
@@ -51,31 +52,29 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - HTML
 - CSS
 - JavaScript
-- React
-- etc.
 
 #### Back-end
 - NodeJS
-- ExpressJS
-- etc.
+- Django
+### ML
+- U-nets
+- Neural Networks
+- Image Segmentaion
+- etc
 
-#### Database
-- MongoDB
-- etc.
-
-#### nlp
--Ml
 
 ## 📈Progress
 
 List down all the fully implemented features in your project
+- The wesite enables user to make his/her account by Sign Up feature and could login using username and password.
+- User can also add the required clothing items to the cart.
+- The Virtual Tryon for clothing
 
 
 
-List down all the partially implemented features in your project
 
 ## 🔮Future Scope
-
+Making Virtual-Tryon more optimized and maye be a 3D - Tryon
 
 ## 💸Applications
 
@@ -104,21 +103,18 @@ git clone <url>
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 ](https://github.com/)
+- [Atharva Naik ](https://github.com/agn222)
 - [Team Member 2 ](https://github.com/)
 - [Team Member 2 ](https://github.com/)
 - [Team Member 2 ](https://github.com/)
 
 ## 👨‍🏫Mentors
-
-Add names of your mentors with their emails and links to their GitHub accounts
-
-- [Mentor 1 ]()):
-- [Mentor 2 ]():
+- [Bhargav Parab ](https://github.com/)
+- [Sharan Poojari](https://github.com/)
+- [Shreyash](https://github.com/)
 
 ## 📱Screenshots
 
 
 ![Screenshot alt text]( "screenshot")
-
 
