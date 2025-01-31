@@ -3,11 +3,11 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
   </a>
   <br>
- Project Name
+ FinZ
 </h1>
 
 <div align="center">
-   //project name
+   A financial education website 
 </div>
 <hr>
 
@@ -32,6 +32,8 @@
 
 
 
+
+
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/)
@@ -49,32 +51,37 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Front-end
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
 - React
-- etc.
+
 
 #### Back-end
 - NodeJS
 - ExpressJS
-- etc.
+
 
 #### Database
 - MongoDB
-- etc.
 
-#### nlp
--Ml
+
 
 ## 📈Progress
 
 List down all the fully implemented features in your project
+UI/UX of landing page
+Mt. Invest
 
 
 
 List down all the partially implemented features in your project
+Stocko (Stock market simulation)
+Backend servers
 
 ## 🔮Future Scope
+Integration of AI and ML
+Multiplayer games
+Develop a community where users can interact with each other
 
 
 ## 💸Applications
@@ -104,21 +111,25 @@ git clone <url>
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 ](https://github.com/)
-- [Team Member 2 ](https://github.com/)
-- [Team Member 2 ](https://github.com/)
-- [Team Member 2 ](https://github.com/)
+- [Aditya Chavan ](https://github.com/adchad90)
+- [Shrivara Bhat ](https://github.com/SOULShri)
+- [Harish Adsul ](https://github.com/adsulharish)
+- [Aadit Narke ](https://github.com/1thirty-five)
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 ]()):
-- [Mentor 2 ]():
+- [Krish Porwal ]():
+- [Aniket ]():
 
 ## 📱Screenshots
 
 
 ![Screenshot alt text]( "screenshot")
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
