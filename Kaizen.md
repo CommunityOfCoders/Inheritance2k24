@@ -48,9 +48,9 @@ By combining health awareness with personal journaling, our project serves as an
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/Angell1147/journal-kaizen.git)
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
+- [Demo Video](https://drive.google.com/drive/folders/1OH0RbWoQpI3NruQJzcQb_X-SgsIfaYaU?usp=sharing)
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1OLG_96BfMRMN44otTub_YWXX6zocUYfv?usp=sharing)
+- [App .abb File Link](https://drive.google.com/file/d/1j-EHTB4h90GmSvFahy6TDExcZ2V9qpBv/view?usp=drive_link)
 - [Hosted Backend Link](https://console.firebase.google.com/u/0/project/journal-kaizen/)
 
 
@@ -122,8 +122,8 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Warren]()):
-- [Yuvraj]():
+- [Warren Jacinto]():
+- [Yuvraj Karmarkar]():
 
 ## 📱Screenshots
 
