@@ -21,9 +21,9 @@ By Team Anti Anachrony
 - [Future Scope](#future-scope)
 - [Applications](#applications)
 - [Project Setup](#project-setup)
-- [Usage](#usage)
 - [Team Members](#team-members)
 - [Mentors](#mentors)
+<!-- - [Usage](#usage) -->
 <!-- - [Screenshots](#screenshots) -->
 
 </details>
@@ -36,7 +36,7 @@ A full-stack cryptocurrency pump and dump detection system combining blockchain 
 
 - [GitHub Repository](https://github.com/ShreyaR2/CrypTick.git)
 <!-- - [Demo Video]() -->
-- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1Naokf-RiMLKJ1WTqIB6LU3hggrGAGiG7?usp=sharing)
+- [Drive Link to Screenshots of project](https://drive.google.com/drive/folders/1Naokf-RiMLKJ1WTqIB6LU3hggrGAGiG7?usp=sharing)
 <!-- - [Hosted Website Link]()
 - [Hosted Backend Link]() -->
 
@@ -51,8 +51,8 @@ graph LR
     B --> C[⚛️ React Frontend]
     C --> D[🤖 ML Model]
     
-    E[(📊 Historical Data)] --> C
-Historical Data)] --> C
+    E[(📊 Historical Data)] --> D
+
 ```
 
 ### Front-end
@@ -70,8 +70,7 @@ Historical Data)] --> C
 - ![DEX](https://img.shields.io/badge/DEX-4A90E2?style=for-the-badge&logo=ethereum&logoColor=white)
 
 
-### NLP
-- ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+### ML
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -82,47 +81,19 @@ Historical Data)] --> C
 
 ### Fully Implemented Features
 
-### 1. Market Manipulation Detection ⚖️
-- **Pump-and-Dump Prediction**
-  - Analyzes market trends and transaction patterns
-  - Provides real-time risk assessments for potential manipulation
-
-### 2. Coin Data Insights 📊
-- **Coin Data Page**
-  - Displays price stability, volume trends, and market movements
-  - Provides a comprehensive view of individual coin performance over time
-
-### 3. Search Functionality 🔍
-- **Coin Lookup**
-  - Allows users to search and quickly access predictions and relevant market data for specific coins
-
-### 4. Machine Learning Engine 🤖
-- **Random Forest Model**
-  - Feature Engineering, Historical Pattern Recognition, Real-time Prediction
-
-### 5. Blockchain Integration 📜
-- **Smart Contract Monitoring**
-  - Monitors blockchain activity for specific tokens
-  - DEX integration and event emission system for market data tracking
-
-### 6. Frontend Dashboard ⚛️
-- **React-based UI**
-  - Interactive charts for visualizing market trends
-  - Displays performance metrics for coins and trading pairs
+- **Pump-and-Dump Prediction**: Analyzes market trends and transaction patterns for real-time risk assessments.
+- **Coin Data Insights 📊**: Displays price stability, volume trends, and market movements.
+- **Search Functionality 🔍**: Enables users to quickly access coin predictions and data.
+- **Machine Learning 🤖**: Random Forest model with feature engineering, historical pattern recognition, and real-time prediction.
+- **Blockchain Integration 📜**: Monitors smart contracts and integrates DEX events for market tracking.
+- **Frontend Dashboard**: Interactive charts and performance metrics for coins and trading pairs.
 
 ---
 
 ### Partially Implemented Features
 
-### 1. Cryptocurrency Support 🌐
-- **Limited Coin Support**
-  - Predictions currently available for a subset of tokens with sufficient data
-  - Expansion to more coins planned for future updates
-
-### 2. Risk Categorization System 📈
-- **Risk Scoring**
-  - Categorizes coins by risk levels based on model predictions
-  - Currently in development, with integration to rank coins based on their risk profile
+- **Limited Coin Support 🌐**: Predictions available for a subset of tokens; expansion planned.
+- **Risk Categorization System 📈**: Ranks coins by risk level; integration in progress.
 
 
 
