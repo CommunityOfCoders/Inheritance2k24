@@ -117,9 +117,9 @@ git clone <url>
 
 ## 👨‍🏫Mentors
 
-- [Labhansh Naik ]()):
-- [Kartik Gupta ]():
-- [Vedant Mehra]():
+- [Labhansh Naik ]()
+- [Kartik Gupta ]()
+- [Vedant Mehra]()
 
 ## 📱Screenshots
 
