@@ -1,5 +1,6 @@
-
-# <div align="center" style="color: #133E87;"><strong>Job Portal</strong></div>
+# <div align="center" style="color: #133E87;">
+    <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
+<strong>Job Portal</strong></div>
 
 <div align="center">Streamlining Job Search and Recruitment<br>CoC Inheritance 2024 || DevDynamos</div>
 
@@ -19,10 +20,10 @@ The platform focuses on simplifying job search complexities by offering intellig
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/bhargava-d16/Inheritance-Project)
-- [Demo Video](#)
+- [Demo Video](https://drive.google.com/drive/folders/1TdpPSDaJZT0hSD8i9ITVOq8Y_zCnjiGy?dmr=1&ec=wgc-drive-hero-goto)
 - [Project Screenshots](https://drive.google.com/drive/folders/1TdpPSDaJZT0hSD8i9ITVOq8Y_zCnjiGy?dmr=1&ec=wgc-drive-hero-goto)
-- [Hosted Website](#)
-- [Backend API](#)
+- [Hosted Website](https://inheritance-project-spsr.vercel.app/)
+- [Backend API](https://inheritance-project-4kr9.onrender.com)
 
 ## 🤖 Tech Stack
 
@@ -33,6 +34,12 @@ The platform focuses on simplifying job search complexities by offering intellig
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
+</p>
+
+### UI Components and Assets
+<p>
+   <img src="https://lucide.dev/logo.light.svg" width="40" height="40" alt="Lucide React"/>
+   <img src="https://cloudinary-res.cloudinary.com/image/upload/c_scale,w_40/v1/logo/for_white_bg/cloudinary_icon_for_white_bg.png" width="40" height="40" alt="Cloudinary"/>
 </p>
 
 ### Back-end
@@ -47,12 +54,10 @@ The platform focuses on simplifying job search complexities by offering intellig
 </p>
 
 ### Additional Technologies
-
 <p>
    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="40" height="40" alt="Socket.IO"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agora.io_logo.png" width="40" height="40" alt="Agora" />
 </p>
-
 
 ## 📈 Progress
 
@@ -61,6 +66,8 @@ The platform focuses on simplifying job search complexities by offering intellig
 - Job Listing and Search
 - Job Application Tracking
 - Profile Management
+- Icon Integration with Lucide React
+- Image Management with Cloudinary
 
 ### Partially Implemented Features
 - Video Interview Integration (Agora)
@@ -113,4 +120,30 @@ nodemon server.js
 - [Varun Sriram](https://github.com/Vxyzs)
 
 ## 📱 Screenshots
-![Job Portal Screenshot](https://via.placeholder.com/800x600 "Job Portal Interface")
+
+#### Landing Page
+![Landing Page](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/Landing-Page.png)
+
+#### User Login
+![User Login](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/User-Login.png)
+
+#### User Home Page
+![User Home Page](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/User-HomePage.png)
+
+#### Company Home Page
+![Company Home Page](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/Company-HomePage.png)
+
+#### Job Post
+![Job Post](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/JobPost.png)
+
+#### User Profile
+![User Profile](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/User-Profile.png)
+
+#### Job Portal Lists
+![Job Portal Lists](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/JobPortal%20Lists.png)
+
+#### Company Details
+![Company Details](https://github.com/bhargava-d16/Inheritance-Project/blob/main/Frontend/src/assets/CompanyDetails.png)
+
+#### More Screenshots
+For additional screenshots and project documentation, please visit our [Project Drive Link](https://drive.google.com/drive/folders/1TdpPSDaJZT0hSD8i9ITVOq8Y_zCnjiGy?dmr=1&ec=wgc-drive-hero-goto)
