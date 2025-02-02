@@ -3,11 +3,14 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
   </a>
   <br>
- Project Name
+  <div style="display: inline-flex; align-items: center; gap: 10px;">
+    <img src="https://i.postimg.cc/GmvR1w0L/final-transparent-image.png" alt="VJTI QUADSPACE" width="100" height="100">
+  </div>
+  <span style="font-size: 32px; font-weight: bold;">VJTI QUADSPACE</span>
 </h1>
 
 <div align="center">
-   VJTI QUADSPACE
+   Connecting students, Empowering futures
 </div>
 <hr>
 
@@ -37,30 +40,28 @@
 - [GitHub Repository](https://github.com/MAVERICK-111/INHERITANCE)
 - [Demo Video](https://drive.google.com/file/d/1fzmlrUfLKLRxnpMlP9BvnPgdesxgwYww/view?usp=sharing)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/13t9D4RZShuSMUaMWbFDCeYy6INft5E3o?usp=sharing)
-- [Hosted Website Link]()
-- [Hosted Backend Link]()
+- [Hosted Website Link](https://quadspace-xi.vercel.app/)
+- [Hosted Backend Link](https://inheritance-backend-2wuj.onrender.com)
 
 
 
 ## 🤖Tech-Stack
 
-Mention all languages/libraries/frameworks used in your project *domain-wise*   
-You can use icons too - find them [here](https://github.com/get-icon/geticon) 
+#### Front-end  
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) [React](https://react.dev/)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
-#### Front-end
-- HTML
-- CSS
-- JavaScript
-- ReactJS
+#### Back-end  
+- ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) [Node.js](https://nodejs.org/)  
+- ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) [Express.js](https://expressjs.com/)  
+- ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white&style=flat) [Auth0](https://auth0.com/)  
 
-#### Back-end
-- NodeJS
-- ExpressJS
-- Auth0
+#### Database & Storage  
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) [MongoDB](https://www.mongodb.com/)  
+- ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat) [Cloudinary](https://cloudinary.com/)  
 
-#### Database
-- MongoDB
-- Cloudinary
 
 
 
@@ -90,25 +91,18 @@ This platform aims to break down communication barriers between freshers and sen
 
 ## 🛠Project Setup
 
-For the Web-App 1.Clone the GitHub repo.
+For the Web-App
+
+1.Clone the GitHub repo.
 bash
 git clone <https://github.com/MAVERICK-111/INHERITANCE.git>
 
-2.Enter the frontend directory. Install all the required dependencies.
+2.Enter the root directory of project. Install all the required dependencies.
 bash
-  cd frontend
-  npm install
-  npm start
+  npm run install-all
 
 
-3.To start the backend server:4
-bash
-  cd backend
-  npm install
-  npm start
-
-
-4.After setting up once
+3.To start the application, enter root directory of project.
 bash
   npm start
 
@@ -125,8 +119,8 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Adi Awaskar ]()):
-- [Ritika Nankar ]():
+- [Adi Awaskar ](https://github.com/adiawaskar)
+- [Ritika Nankar ](https://github.com/Ritika128)
 
 ## 📱Screenshots
 
