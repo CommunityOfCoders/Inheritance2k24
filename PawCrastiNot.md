@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
-    <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
+    <img src=![COC](https://github.com/user-attachments/assets/f523e709-177d-47b8-980d-6be3a6d5e6c8) width="500" height="166">
   </a>
   <br>
 </h1>
@@ -33,9 +33,10 @@ PawCrastiNot is a productivity and task management app that integrates gamificat
 
 ## 🔗Links
 
-- [GitHub Repository]([https://github.com/](https://github.com/KartikB3/PawCrastiNot))
-- [Demo Video](https://drive.google.com/drive/folders/1W3fGknK9Amas80v2JcTvI3RZmm0A-Zx1)
-- [Drive Link to Screenshots of your project](https://drive.google.com/file/d/13lI0SPUawPt5NEJU9Ovi5awdgCSvQ4SP/view?usp=sharing)
+- [GitHub Repository](https://github.com/KartikB3/PawCrastiNot)
+- [Demo Video](https://drive.google.com/file/d/1EOfzOPTQUChzeaihK-RIGdkMsybaPCTf/view?usp=sharing)
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1W3fGknK9Amas80v2JcTvI3RZmm0A-Zx1)
+- [App APK](https://drive.google.com/file/d/1PzjCHkSwliZ5kd-DzQEFeSb3o2PP-rIS/view?usp=drive_link)
 
 
 
@@ -198,25 +199,32 @@ For the Web-App 1.Clone the GitHub repo.
 ```bash
 git clone <url>
 ```
-On terminal,
+```terminal
 flutter clean
 flutter pub get
 flutter run
+```
 
 
 ## 👨‍💻Team Members
 
-- Kartik Bulusu(https://github.com/KartikB3)
-- Girija Vibhute(https://github.com/GirijaVib04)
-- Shamita(https://github.com/shamita31)
-- Sanika Deshmukh(https://github.com/sanikad20)
+- [Kartik Bulusu](https://github.com/KartikB3)
+- [Girija Vibhute](https://github.com/GirijaVib04)
+- [Shamita](https://github.com/shamita31)
+- [Sanika Deshmukh](https://github.com/sanikad20)
 
 ## 👨‍🏫Mentors
 
-- Rutvik Bangar(https://github.com/rutvikbangar/)
-- Jash Shah(https://github.com/Jash-Shah)
+- [Rutvik Bangar](https://github.com/rutvikbangar/)
+- [Jash Shah](https://github.com/Jash-Shah)
 
 
 
-
-
+![Register](https://github.com/user-attachments/assets/b0b3e819-3030-4b2e-a1cc-ac1fb88a3b64)
+![Start](https://github.com/user-attachments/assets/5aff712e-01fa-4184-8ab4-055ec40cd395)
+![Task complete](https://github.com/user-attachments/assets/9f075549-633d-4a11-83af-a30c338dc793)
+![g](https://github.com/user-attachments/assets/56b2e420-593a-4480-a430-d5e21438d45c)
+![x](https://github.com/user-attachments/assets/8a33a12d-2c7a-44db-9a2e-f2aa88953380)
+![w](https://github.com/user-attachments/assets/caac1bab-cfac-4e8d-8ccf-1da553c3938b)
+![m](https://github.com/user-attachments/assets/8234a729-7e6c-4fac-b75a-2849374b7686)
+![Screenshot_20250203_194421](https://github.com/user-attachments/assets/421cbcfb-63b3-4201-bdf0-9cb3cf6106a0)
