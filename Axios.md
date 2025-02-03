@@ -122,4 +122,4 @@ Add names of your mentors with their emails and links to their GitHub accounts
 - [Puru_Zingare](https://github.com/puruz14)
 
 ## 📱Screenshots
--[link](https://drive.google.com/drive/folders/11BZeFkPkF-O0Ek4oG_WOH19e5C8pOG_K?usp=sharing)
+  -[link](https://drive.google.com/drive/folders/11BZeFkPkF-O0Ek4oG_WOH19e5C8pOG_K?usp=sharing)
