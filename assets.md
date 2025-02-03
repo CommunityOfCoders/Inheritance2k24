@@ -10,53 +10,21 @@
   <img src="https://github.com/user-attachments/assets/ef9fff91-264b-4029-993c-1c353f7cb78b" width="350" />
 </p>
 
+
+
 ## 📝 Description 
 
 Virtual Interviewer is an AI-powered platform designed to simulate job interviews, assess candidate responses, and provide real-time feedback. The system offers adaptive difficulty levels, job-specific question sets, and a performance review mechanism to help users improve their interview skills.  
 
 ---
-
-## 📝 Table of Contents 
-
-- [📝 Description](#-description)
-- [📝 Table of Contents](#-table-of-contents)
-- [🔗 Links](#-links)
-- [🚀 Key Features](#-key-features)
-- [🛠 Tech Stack](#-tech-stack)
-- [⚙️ Installation and Setup](#️-installation-and-setup)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [📱 How to Use](#-how-to-use)
-- [🌟 Future Scope](#-future-scope)
-- [📸 Screenshots](#-screenshots)
-- [📜 Acknowledgement](#-acknowledgement)
-- [👥 Contributors](#-contributors)
-  - [**Mentors**](#mentors)
-  - [**Team Members**](#team-members)
-
-
----
-
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/meekhumor/virtual_interviewer/)
-- [Demo Video]()
+- [Demo Video](https://drive.google.com/drive/u/0/folders/1px37x2HPjJ5sZkBsWWsPC9VrWcuJcfWN)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/u/0/folders/1IXCwQUXPXyfOV45liRXjdBZev9kLT6cT)
 - [Hosted Website Link](https://virtual-interviewer-frontend.onrender.com/)
 - [Hosted Backend Link](https://virtual-interviewer.onrender.com)
 
----
-
-## 🚀 Key Features  
-
-✅ **AI-Powered Job Position-Based Interviews**  
-✅ **General & Custom Interview Simulations**   
-✅ **Response Analysis & Scoring** 
-✅ **Resume Upload & Parsing**   
-✅ **AI-Powered Interview Feedback**  
-✅ **Performance Review & Progress Tracking**  
-✅ **NLP-Based Answer Evaluation**   
- 
 ---
 
 ## 🛠 Tech Stack  
@@ -69,8 +37,41 @@ Virtual Interviewer is an AI-powered platform designed to simulate job interview
 | **AI/NLP**                  | ![Langflow](https://img.shields.io/badge/Langflow-563D7C?style=for-the-badge&logo=ai&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-0A192F?style=for-the-badge&logo=ai&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
 
 ---
+## 📈 Progress
 
-## ⚙️ Installation and Setup  
+- Frontend Completed
+- Backend Completed
+- API Integration Done
+- Signup & Login Functional
+- Dashboard & Interview Features Integrated
+- Analysis Page Implemented
+- Resume Upload & Parsing Implemented
+- Interview Review & Feedback Working
+
+---
+
+## 🔮 Future Scope  
+
+1. **Voice & Sentiment Analysis** – AI-driven evaluation of tone, confidence, and emotions.  
+2. **Live Video-Based Feedback** – Real-time AI feedback on facial expressions and engagement.
+3. **Mock Interviews with AI Avatars** – Interact with lifelike AI interviewers for a realistic experience.  
+4. **Seamless Integration with Job Portals** – Connect directly to job listings and applications.   
+
+---
+
+## 💸 Applications
+
+- **AI-Powered Job Position-Based Interviews**  
+- **General & Custom Interview Simulations**   
+- **Response Analysis & Scoring** 
+- **Resume Upload & Parsing**   
+- **AI-Powered Interview Feedback**  
+- **Performance Review & Progress Tracking**  
+- **NLP-Based Answer Evaluation**   
+ 
+---
+
+## 🛠 Project Setup 
 
 ### Backend Setup  
 ```bash
@@ -86,79 +87,58 @@ cd frontend
 npm install  
 npm run dev  
 ```  
+---
+
+## 👨‍💻 Team Members
+| Name  | Email | GitHub |
+|--------|------------|----------|
+| Om Mukherjee| om17092004@gmail.com | [GitHub](https://github.com/meekhumor) |
+| Aryan Yadav | aryanyadavgr10@gmail.com | [GitHub](https://github.com/Aryan-y-77) |
+| Aman Vatsa | amanvatsa13@gmail.com | [GitHub](https://github.com/amanv13) |
+
+
+## 👨‍🏫 Mentors
+| Name  | Email | GitHub |
+|--------|------------|----------|
+| Harshala Mahajan | mharshala334@gmail.com | [GitHub](https://github.com/harshala334) |
+| Sayali Khandare | sayalisayali924@gmail.com | [GitHub](https://github.com/Toppersayali) |
 
 ---
 
-## 📱 How to Use
 
-1. **Account Setup**
-    - Register/Login
-    - Complete profile
-    - Upload resume for personalization
-      
-2. **Select Mode**
-    - Position-specific interviews
-    - General assessment
-    - Custom scenarios
-    - Practice sessions
-
-3. **During Interview**
-    - Answer AI questions
-    - Get real-time hints
-    - Track confidence score
-    - Request clarification
-
-4. **Review & Improve**
-    - Detailed performance metrics
-    - Response analysis
-    - Improvement suggestions
-    - Practice weak areas
-
----
-
-## 🌟 Future Scope  
-
-- **Voice & Sentiment Analysis** – AI-driven evaluation of tone, confidence, and emotions.  
-- **Live Video-Based Feedback** – Real-time AI feedback on facial expressions and engagement.
-- **Mock Interviews with AI Avatars** – Interact with lifelike AI interviewers for a realistic experience.  
-- **Seamless Integration with Job Portals** – Connect directly to job listings and applications.   
-
----
-
-## 📸 Screenshots  
+## 📱 Screenshots  
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
-  <img src="https://github.com/user-attachments/assets/a2f55f78-620c-4d89-8f1b-1d6faff9045a" alt="Image 8" width="300" height="200" />
-  <img src="https://github.com/user-attachments/assets/ae51ba2b-289c-4951-b53b-c74185bbdcb6" alt="Image 1" width="300" height="200" />
-  <img src="https://github.com/user-attachments/assets/ebcd3c78-4664-4b77-b78e-fff848cfd397" alt="Image 2" width="300" height="200" />
-  <img src="https://github.com/user-attachments/assets/ce48123f-cbb7-45e2-9b7d-80b347ed67f9" alt="Image 3" width="300" height="200" />
-  <img src="https://github.com/user-attachments/assets/2a7b13c6-92db-432a-b3ea-70c953e65ea6" alt="Image 4" width="300" height="200" />
-  <img src="https://github.com/user-attachments/assets/cdbdec5f-74e7-4e32-a2ae-392f58ad0f78" alt="Image 5" width="300" height="200" />
-  <img src="https://github.com/user-attachments/assets/1f492ebd-63c0-4260-ba8b-6a61bcf92fbf" alt="Image 6" width="300" height="200" />
-  <img src="https://github.com/user-attachments/assets/3e8b5c5a-fd04-48e9-a862-6e3b87fa0f2f" alt="Image 7" width="300" height="200" />
+
+### Landing Page  
+<img src="https://github.com/user-attachments/assets/a2f55f78-620c-4d89-8f1b-1d6faff9045a" width="700" style="height: auto;"/>
+
+### Interview Settings  
+<img src="https://github.com/user-attachments/assets/d2e81305-9a0e-4508-859a-f989943ce143" width="700" style="height: auto;"/>
+
+### Dashboard  
+<img src="https://github.com/user-attachments/assets/b390b559-1496-4218-b31e-741523f581e6" width="700" style="height: auto;"/>
+
+### Upload Resume  
+<img src="https://github.com/user-attachments/assets/5ef36135-769f-448d-a484-fd40961c63ee" width="700" style="height: auto;"/>
+
+### Review  
+<img src="https://github.com/user-attachments/assets/1f492ebd-63c0-4260-ba8b-6a61bcf92fbf" width="700" style="height: auto;"/>
+
+### Feedback  
+<img src="https://github.com/user-attachments/assets/cdbdec5f-74e7-4e32-a2ae-392f58ad0f78" width="700" style="height: auto;"/>
+
+### Analysis  
+<img src="https://github.com/user-attachments/assets/2a7b13c6-92db-432a-b3ea-70c953e65ea6" width="700" style="height: auto;"/>
+
+### Courses  
+<img src="https://github.com/user-attachments/assets/3e8b5c5a-fd04-48e9-a862-6e3b87fa0f2f" width="700" style="height: auto;"/>
+
+### Skill-based Interview  
+<img src="https://github.com/user-attachments/assets/62cdbf3d-3d98-47f8-b3e4-094b2c69f9aa" width="700" style="height: auto;"/>
+
+### Job-based Interview  
+<img src="https://github.com/user-attachments/assets/a8c5ffff-4cde-4efa-aa14-e41fdfc1cb98" width="700" style="height: auto;"/>
+
 </div>
 
----
-
-## 📜 Acknowledgement
-
-We would like to express our gratitude to all the tools and courses which helped in successful completion of this project.
-
-**Courses**
-- [Andrew Ng's Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-- [OpenCV Free Bootcamp](https://opencv.org/university/free-opencv-course/)
-
-A special thanks to our project mentor [Harshala](https://github.com/harshala334), [Sayali](https://github.com/Toppersayali) and to the entire [COC](https://github.com/CommunityOfCoders) community for unwavering support and guidance throughout this journey.
-
-
-## 👥 Contributors  
-
-### **Mentors**  
-- Harshala Mahajan  
-- Sayali Khandare  
-
-### **Team Members**  
-- Aditya Mahajan  
-- Aryan Yadav  
-- Aman Vatsa  
-- Om Mukherjee  
