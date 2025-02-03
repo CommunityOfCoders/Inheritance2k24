@@ -10,7 +10,25 @@
   <img src="https://github.com/user-attachments/assets/ef9fff91-264b-4029-993c-1c353f7cb78b" width="350" />
 </p>
 
+---
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Description](#-description)
+- [Links](#-links)
+- [Tech Stack](#-tech-stack)
+- [Progress](#-progress)
+- [Future Scope](#-future-scope)
+- [Applications](#-applications)
+- [Project Setup](#-project-setup)
+- [Team Members](#-team-members)
+- [Mentors](#-mentors)
+- [Screenshots](#-screenshots)
+
+</details>
+
+---
 
 ## 📝 Description 
 
