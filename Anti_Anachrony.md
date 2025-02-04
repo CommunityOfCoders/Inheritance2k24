@@ -34,7 +34,7 @@ A full-stack cryptocurrency pump and dump detection system combining blockchain 
 
 ## 🔗Links
 
-- [GitHub Repository](https://github.com/ShreyaR2/CrypTick.git)
+- [GitHub Repository](https://github.com/ShreyaR2/Cryp-Tick.git)
 <!-- - [Demo Video]() -->
 - [Drive Link to Screenshots of project](https://drive.google.com/drive/folders/1Naokf-RiMLKJ1WTqIB6LU3hggrGAGiG7?usp=sharing)
 <!-- - [Hosted Website Link]()
